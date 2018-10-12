@@ -1,5 +1,7 @@
 package Beans;
-
+/*
+ Modificado por ROCA Y RUBEN
+*/
 public class UsuarioBE {
 
     private int IndOpSp;
@@ -54,7 +56,7 @@ public class UsuarioBE {
         this.idtiposexo = pidtiposexo;
         this.estado = pestado;
         this.inExist = pinExist;
-        this.idrol=pidrol;
+        this.idrol = pidrol;
     }
 
     public int getIndOpSp() {
